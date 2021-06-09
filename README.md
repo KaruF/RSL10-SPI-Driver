@@ -1,1 +1,3 @@
 # RSL10-SPI-Driver
+
+This is SPI driver for RSL10, which driver is necessary for SST26V Flash Memory Device...
